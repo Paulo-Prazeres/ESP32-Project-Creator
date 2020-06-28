@@ -7,5 +7,6 @@ void app_main(void)
 {
   printf("Hello world1!\n");  
   ESP_LOGI("TAG","A LOG");
+   ESP_LOGI("TAG","A LOG2");
   
 }
